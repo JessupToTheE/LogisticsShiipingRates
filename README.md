@@ -1,1 +1,1 @@
-# LogisticsShiipingRates
+# LogisticsShippingRates
